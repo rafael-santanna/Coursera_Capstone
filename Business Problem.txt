@@ -1,4 +1,5 @@
-Many people strugle with the necessity to move to another location. The suffering and axiety come mostly from 
-the uncertainty of adaptation that comes along with changes. In order to lower the uncertainty level of 
+Many people strugle with the necessity to move to another location. The novel Suffering and axiety come mostly from 
+the uncertainty of adaptation that comes along with this change. In order to lower the uncertainty level of 
 satisfaction with one's new surroundings and to prevent future regrets, we can perform an analysis comparing 
-one's current home location with a variaty of atractive destinations. To do that, 
+one's current home location with a variaty of atractive destinations; nevertheless, taking one's moving constrains 
+into account. To simplify this analysis, we can use the locations' data about venues nearby.
