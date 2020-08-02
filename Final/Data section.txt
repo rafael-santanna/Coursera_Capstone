@@ -1,0 +1,4 @@
+Most of the data that will be used in this project was provided by Foursquare City Guide. Foursquare strive to 
+collect and store data about venues from countless locations in many different countries. In order 
+to perform the analysis, we need possible destinations' coordinates and venues' location coordinates, name, 
+category and id which was provided by Foursquare.
