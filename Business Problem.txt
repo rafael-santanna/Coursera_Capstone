@@ -1,5 +1,6 @@
-Many people strugle with the necessity to move to another location. The new suffering and axiety come mostly from 
+Many people strugle with the necessity to move to another location. The new suffering and anxiety come mostly from 
 the uncertainty of adaptation that comes along with this change. In order to lower the uncertainty level of 
 satisfaction with one's new surroundings and to prevent future regrets, we can perform an analysis comparing 
 one's current home location with a variaty of atractive destinations; nevertheless, taking one's moving constrains 
-into account. To simplify this analysis, we can use the locations' data about venues nearby.
+into account. To simplify this analysis, we can use possible destinations' and curent location's data about venues 
+nearby.
